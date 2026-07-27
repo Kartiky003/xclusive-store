@@ -38,6 +38,15 @@ Xclusive Store/
 
 ![Homepage](homepage.png)
 
+## Shop Page
+![Shop](shop.png)
+
+### Product Details
+![Product](product.png)
+
+### Cart
+![Cart](cart.png)
+
 ## 🚀 How to Run
 
 1. Download the project.
