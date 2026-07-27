@@ -34,9 +34,9 @@ Xclusive Store/
 ├── img/
 ```
 
-## 📷 Screenshots
+## 📷 Homepage
 
-_Add your homepage and shop page screenshots here._
+![Homepage](homepage.png)
 
 ## 🚀 How to Run
 
