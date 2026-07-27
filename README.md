@@ -1,34 +1,48 @@
-# Cara-EcommerceWebsite
-Cara Ecommerce is a sleek, user-friendly, and responsive online shopping platform built entirely with Vanilla JavaScript, HTML, and CSS. This repository contains the frontend part of the website, providing a seamless shopping experience for users across various devices.
 
-# Cara Ecommerce Frontend Website
+# Xclusive Store
 
-Welcome to the Cara Ecommerce Website Frontend repository! 🛍️
+## 📌 Project Overview
 
-## About
+Xclusive Store is a modern and responsive e-commerce website built using HTML, CSS, and JavaScript. It provides a clean shopping experience with product browsing, product details, wishlist, shopping cart, and responsive design.
 
-Cara Ecommerce is a sleek, user-friendly, and responsive online shopping platform built entirely with Vanilla JavaScript, HTML, and CSS. This repository contains the frontend part of the website, providing a seamless shopping experience for users across various devices.
+## ✨ Features
 
-## Key Features
+- Responsive Design
+- Product Listing
+- Product Details Page
+- Shopping Cart
+- Wishlist
+- Modern UI
+- Clean Navigation
 
-- **Intuitive User Interface**: Enjoy a modern and easy-to-navigate interface that enhances the shopping experience.
-- **Responsive Design**: The website adapts flawlessly to different screen sizes, making it accessible on desktops, tablets, and mobile devices.
-- **Product Catalog**: Browse through an extensive collection of products across multiple categories.
-- **Shopping Cart**: Add items to your cart and seamlessly manage your shopping list.
-- **Checkout Process**: Smooth and hassle-free checkout process.
+## 🛠 Technologies Used
 
-## Technologies Used
-
-- Vanilla JavaScript
 - HTML5
 - CSS3
+- JavaScript
 
-## Credits
+## 📁 Project Structure
 
-Cara Ecommerce Frontend is built with love by [Anurag Kumar](https://github.com/anuragino).
+```
+Xclusive Store/
+│
+├── index.html
+├── shop.html
+├── product.html
+├── css/
+├── js/
+├── img/
+```
 
-## License
+## 📷 Screenshots
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute this code.
+_Add your homepage and shop page screenshots here._
 
-Happy shopping! 🛒✨
+## 🚀 How to Run
+
+1. Download the project.
+2. Open `index.html` in your browser.
+
+## 👨‍💻 Author
+
+**Kartik Yadav**
